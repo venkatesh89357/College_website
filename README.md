@@ -1,1 +1,2 @@
-# College_website
+# college_project_automation
+ college project automation
